@@ -27,5 +27,9 @@ This project monitors and visualizes vegetation changes in the Amazon Basin over
 - **NDVI**: Normalized Difference Vegetation Index
 - **EVI**: Enhanced Vegetation Index (better sensitivity in high biomass regions)
 
+## 📊 Visual Results
+### Annual NDVI
 ![NDVI Annual Animation](ndvi_amazon_with_legend.gif)
 
+### Annual NDVI Changes
+![NDVI Annual Animation](ndvi_change_amazon.gif)
