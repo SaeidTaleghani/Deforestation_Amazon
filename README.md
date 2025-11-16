@@ -33,3 +33,7 @@ This project monitors and visualizes vegetation changes in the Amazon Basin over
 
 ### Annual NDVI Changes
 ![NDVI Annual Animation](deforestation_change_amazon.gif)
+
+### Annual EVI
+
+
